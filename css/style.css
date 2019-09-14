@@ -1,0 +1,12 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #FFFFFF;
+}
+
+img {
+    width: 100%;
+}
+
+.container {
+    font-size: larger;
+}
